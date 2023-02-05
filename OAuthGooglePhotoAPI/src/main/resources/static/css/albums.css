@@ -1,0 +1,19 @@
+body {
+	margin: 0px; 
+	padding: 0px;
+}
+
+/* Used for header */
+.album-header {
+	background-color: #2061a8; 
+	color: #e8e3e3;
+	padding: 10px; 
+}
+
+/* Used for Album and Photo Card */
+.album-card {
+	width: 250px; 
+	height: 250px; 
+	object-fit: cover;
+}
+
